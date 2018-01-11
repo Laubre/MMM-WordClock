@@ -6,7 +6,7 @@ The `MMM-WordClock` module is for MagicMirror. It is a simple way to add an Word
    "cd home/pi/MagicMirror/modules"
    
 2. Clone the repository
-   git clone https://github.com/laubre/MMM-WorldClock
+   git clone https://github.com/Laubre/MMM-WorldClock
    
 ## Using the module
 
